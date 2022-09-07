@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbarTrackHorizontal="@android:drawable/alert_light_frame"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imgnasa"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:foregroundTint="#D824242E"
+        android:scaleType="centerCrop"
+        tools:layout_editor_absoluteX="-16dp"
+        tools:layout_editor_absoluteY="216dp" />
+
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="352dp"
+        android:layout_height="270dp"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginBottom="80dp"
+        android:background="@drawable/border_radius_txt"
+        android:backgroundTint="#D824242E"
+        android:paddingLeft="14sp"
+        android:paddingTop="14sp"
+        android:textColor="#FFFFFF"
+        />
+
+
+    <ToggleButton
+        android:id="@+id/saltar"
+        android:layout_width="134dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginBottom="14dp"
+        android:background="@drawable/border_radius_txt"
+        android:backgroundTint="#D824242E"
+        android:button="@android:drawable/ic_menu_send"
+        android:buttonTint="#2F77A4"
+        android:checked="false"
+        android:textColor="#FFFFFF"
+        android:textOff="Saltar"
+        android:textOn="@null" />
+
+
+</FrameLayout>

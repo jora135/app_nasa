@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/PC_jor/Desktop/Proyectos/prueba_stac_software/proyecto1/MyApplication/app/src/main/res/drawable/border_image.xml" value="0.2195" />
+        <entry key="..\:/Users/PC_jor/Desktop/Proyectos/prueba_stac_software/proyecto1/MyApplication/app/src/main/res/drawable/border_radius_topbar.xml" value="0.209" />
+        <entry key="..\:/Users/PC_jor/Desktop/Proyectos/prueba_stac_software/proyecto1/MyApplication/app/src/main/res/drawable/border_radius_txt.xml" value="0.18" />
+        <entry key="..\:/Users/PC_jor/Desktop/Proyectos/prueba_stac_software/proyecto1/MyApplication/app/src/main/res/drawable/colors_nasa.xml" value="0.169" />
+        <entry key="..\:/Users/PC_jor/Desktop/Proyectos/prueba_stac_software/proyecto1/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.176" />
+        <entry key="..\:/Users/PC_jor/Desktop/Proyectos/prueba_stac_software/proyecto1/MyApplication/app/src/main/res/drawable/ic_nasa_6.xml" value="0.2515" />
+        <entry key="..\:/Users/PC_jor/Desktop/Proyectos/prueba_stac_software/proyecto1/MyApplication/app/src/main/res/drawable/ic_notification_bell_svgrepo_com.xml" value="0.2515" />
+        <entry key="..\:/Users/PC_jor/Desktop/Proyectos/prueba_stac_software/proyecto1/MyApplication/app/src/main/res/layout/activity_list_info.xml" value="0.16489361702127658" />
+        <entry key="..\:/Users/PC_jor/Desktop/Proyectos/prueba_stac_software/proyecto1/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/PC_jor/Desktop/Proyectos/prueba_stac_software/proyecto1/MyApplication/app/src/main/res/layout/activity_satelite_info.xml" value="0.33" />
+        <entry key="..\:/Users/PC_jor/Desktop/Proyectos/prueba_stac_software/proyecto1/MyApplication/app/src/main/res/layout/activity_tierra_info.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000A27"
+    android:foregroundTint="#FFFFFF"
+    tools:context=".tierra_info">
+
+    <ImageButton
+        android:id="@+id/icon_nasa"
+        android:layout_width="wrap_content"
+        android:layout_height="77dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:backgroundTint="#00FFFFFF"
+        app:srcCompat="@drawable/ic_nasa_6" />
+
+    <ImageView
+        android:id="@+id/iconview"
+        android:layout_width="19dp"
+        android:layout_height="20dp"
+        android:layout_gravity="right"
+        android:layout_marginTop="40dp"
+        android:layout_marginRight="40dp"
+        app:srcCompat="@drawable/ic_notification"
+        app:tint="#FFFFFF" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|top"
+        android:layout_marginTop="80dp"
+        android:text="Revisados"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="352dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginBottom="18dp"
+        android:background="@drawable/border_radius_topbar"
+        android:backgroundTint="#D824242E"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme" />
+
+    <ImageButton
+        android:id="@+id/icon_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginLeft="66dp"
+        android:layout_marginBottom="22dp"
+        android:backgroundTint="#00FFFFFF"
+        app:srcCompat="@drawable/ic_house"
+        app:tint="#FFFFFF" />
+
+    <ImageButton
+        android:id="@+id/icon_gps"
+        android:layout_width="42dp"
+        android:layout_height="39dp"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginBottom="22dp"
+        android:backgroundTint="#00FFFFFF"
+        app:srcCompat="@drawable/ic_gps"
+        app:tint="#FFFFFF" />
+
+    <ImageButton
+        android:id="@+id/icon_list"
+        android:layout_width="39dp"
+        android:layout_height="31dp"
+        android:layout_gravity="bottom"
+        android:layout_marginLeft="305dp"
+        android:layout_marginBottom="27dp"
+        android:backgroundTint="#00FFFFFF"
+        app:srcCompat="@drawable/ic_ico_list"
+        app:tint="#FFFFFF" />
+
+</FrameLayout>
