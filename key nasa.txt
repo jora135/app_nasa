@@ -1,0 +1,7 @@
+Su clave API para joranorenag@gmail.com es:
+
+fFqAQ6TttvmE8bJPH1Np1lNSlQcB3AjacayyckcR
+
+Puede comenzar a usar esta clave para realizar solicitudes de servicios web. Simplemente pase su clave en la URL cuando realice una solicitud web. Aquí hay un ejemplo:
+
+https://api.nasa.gov/planetary/apod?api_key=fFqAQ6TttvmE8bJPH1Np1lNSlQcB3AjacayyckcR
