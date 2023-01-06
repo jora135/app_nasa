@@ -1,6 +1,6 @@
 # app_nasa
 
-App_Nasa, es una aplicacion desarrollada en Java nativo, la cual es para androd y hace uso de Apis de la Nasa para visualizar informacion diaria.
+App_Nasa, es una aplicación desarrollada en Java nativo, la cual es para Android y hace uso de Apis de la Nasa para visualizar información diaria.
 
 ![info_imagen](https://user-images.githubusercontent.com/107441710/211115588-f7c20707-358c-4959-a038-b150ea8a83b7.png)
 
